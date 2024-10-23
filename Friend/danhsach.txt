@@ -1,0 +1,9 @@
+danhsach.bat
+danhsach.txt
+IMG_001.jpg
+IMG_002.jpg
+IMG_003.jpg
+IMG_004.JPG
+IMG_005.jpg
+IMG_006.jpeg
+IMG_007.jpg
